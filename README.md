@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrutipatel241" alt="shrutipatel241" /></a> </p>
 
+- :information_desk_person: Checkout my **portfolio**<p><a href="https://shrutipatel241.github.io/"></a>https://shrutipatel241.github.io/</p>
+
 - 💬 Ask me about **kotlin, java**
 
 - 📫 How to reach me **shrutipatel241@gmail.com**
